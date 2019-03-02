@@ -1,0 +1,13 @@
+F:\PRJ\GenAlgorithm\GenAlgorithm\bin\Debug\GenAlgorithm.exe.config
+C:\Users\Boris\Google Диск\University\Study\_8 семестр\Методы оптимищации\GenAlgorithm\GenAlgorithm\bin\Debug\GenAlgorithm.exe.config
+C:\Users\Boris\Google Диск\University\Study\_8 семестр\Методы оптимищации\GenAlgorithm\GenAlgorithm\obj\Debug\GenAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Google Диск\University\Study\_8 семестр\Методы оптимищации\GenAlgorithm\GenAlgorithm\bin\Debug\GenAlgorithm.exe
+C:\Users\Boris\Google Диск\University\Study\_8 семестр\Методы оптимищации\GenAlgorithm\GenAlgorithm\bin\Debug\GenAlgorithm.pdb
+C:\Users\Boris\Google Диск\University\Study\_8 семестр\Методы оптимищации\GenAlgorithm\GenAlgorithm\obj\Debug\GenAlgorithm.exe
+C:\Users\Boris\Google Диск\University\Study\_8 семестр\Методы оптимищации\GenAlgorithm\GenAlgorithm\obj\Debug\GenAlgorithm.pdb
+C:\Users\Борис\Google Диск\University\Study\8 семестр\Методы оптимищации\GenAlgorithm\GenAlgorithm\bin\Debug\GenAlgorithm.exe.config
+C:\Users\Борис\Google Диск\University\Study\8 семестр\Методы оптимищации\GenAlgorithm\GenAlgorithm\obj\Debug\GenAlgorithm.exe
+C:\Users\Борис\Google Диск\University\Study\8 семестр\Методы оптимищации\GenAlgorithm\GenAlgorithm\obj\Debug\GenAlgorithm.pdb
+C:\Users\Борис\Google Диск\University\Study\8 семестр\Методы оптимищации\GenAlgorithm\GenAlgorithm\obj\Debug\GenAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Борис\Google Диск\University\Study\8 семестр\Методы оптимищации\GenAlgorithm\GenAlgorithm\bin\Debug\GenAlgorithm.exe
+C:\Users\Борис\Google Диск\University\Study\8 семестр\Методы оптимищации\GenAlgorithm\GenAlgorithm\bin\Debug\GenAlgorithm.pdb
